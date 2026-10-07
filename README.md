@@ -4,7 +4,7 @@ An end-to-end Machine Learning pipeline using the **IBM HR Analytics Employee At
 
 ---
 
-## 🛠️ Features
+## Features
 
 - **Data Preprocessing**: Drops redundant columns, maps target categories to binary format (`Yes` $\rightarrow 1$, `No` $\rightarrow 0$), standardizes numerical features, and applies One-Hot Encoding to categorical attributes.
 - **Model Training & Comparison**: Fits and evaluates three classification models:
@@ -16,7 +16,7 @@ An end-to-end Machine Learning pipeline using the **IBM HR Analytics Employee At
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```text
 .
@@ -28,7 +28,7 @@ An end-to-end Machine Learning pipeline using the **IBM HR Analytics Employee At
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### 1. Requirements & Prerequisites
 Ensure you have Python 3.8+ installed.
@@ -55,7 +55,7 @@ python attrition_analyzer.py
 
 ---
 
-## 📊 Evaluation Outputs
+##  Evaluation Outputs
 
 The script outputs:
 1. **Model Performance Summary**: A table showing the F1 Score for all three models.
